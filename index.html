@@ -1,0 +1,19 @@
+<html>
+    <head>
+    <script>
+        var isIE = /Trident|MSIE/.test(window.navigator.userAgent);
+        var isOldEdge = /Edge/.test(window.navigator.userAgent) && !isIE;
+        
+        if (isIE || isOldEdge) {
+            window.location.href = "pagina_no_compatible.html";
+        }
+    </script>
+    </head>
+    <frameset cols="10%,*">
+         <frame id="frmIzquierdo" name="frmIzquierdo" src="menu.html" />
+         <frame id="frmDerecho"   name="frmDerecho"   src="infoset.html" />
+         <noframes>
+             <body> Su navegador no soporta frames</body>
+         </noframes>
+    </frameset>
+</html>
