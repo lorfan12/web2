@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6Xa2NtMcaef_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Sena English Test - Listening</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">Listening Section
+V141123 - Candés</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Sena_English_Test_-_Listening_ORG">
+    <organization identifier="Sena_English_Test_-_Listening_ORG">
+      <title>Sena English Test - Listening</title>
+      <item identifier="Pilot_SEPT_May_2022_SCO" isvisible="true" identifierref="__6Xa2NtMcaef_course_id_RES">
+        <title>Sena English Test - Listening</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6Xa2NtMcaef_course_id_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
+      <file href="quiz_content/thumbnail.jpg" />
+      <file href="quiz_content/report.html" />
+      <file href="mobile/6f6URVBlby7_80_DX412_DY412_CX81_CY308.png" />
+      <file href="mobile/5ifvi5qmbrG_80_DX412_DY412_CX109_CY309.png" />
+      <file href="mobile/5fYKvOqHCCz_80_DX398_DY398_CX298_CY283.jpg" />
+      <file href="mobile/5ZdNHnDNhe0_80_DX1440_DY1440_CX805_CY405.jpg" />
+      <file href="mobile/67olWFfDUKV_80_DX462_DY462_CX172_CY343.png" />
+      <file href="mobile/69TCek7iHzE_80_DX350_DY350_CX262_CY137.jpg" />
+      <file href="quiz_content/6Kvfxu9HCMC_22050_48_0.mp3" />
+      <file href="quiz_content/5nj6my9HCy9_22050_48_0.mp3" />
+      <file href="mobile/69TCek7iHzE_80_DX272_DY272_CX202_CY106.jpg" />
+      <file href="mobile/6rIgo9W9ziJ_80_DX1440_DY1440_CX754_CY58.jpg" />
+      <file href="quiz_content/5hXOGcI0Eli_22050_48_0.mp3" />
+      <file href="mobile/5sOSjm3aX6T_80_DX476_DY476_CX318_CY52.jpg" />
+      <file href="quiz_content/6DdK24fSKa4_22050_48_0.mp3" />
+      <file href="quiz_content/5jzDTNPywVV_22050_48_0.mp3" />
+      <file href="quiz_content/6R7U4MwdTbX_22050_48_0.mp3" />
+      <file href="quiz_content/6hbsHEgs3OA_22050_48_0.mp3" />
+      <file href="mobile/60gsn80NKpx_80_DX334_DY334_CX250_CY167.jpg" />
+      <file href="mobile/5nKHjvYQjLI_80_DX318_DY318_CX238_CY190.jpg" />
+      <file href="mobile/5oqLEZh51oT_80_DX326_DY326_CX243_CY162.jpg" />
+      <file href="mobile/6DhkSUnDD0U_80_DX332_DY332_CX249_CY166.jpg" />
+      <file href="quiz_content/5polHW85NnU_22050_48_0.mp3" />
+      <file href="quiz_content/5VLhRUAuxHZ_22050_48_0.mp3" />
+      <file href="quiz_content/6qgsO66NhKm_22050_48_0.mp3" />
+      <file href="quiz_content/6RpHmvcPNmA_22050_48_0.mp3" />
+      <file href="quiz_content/6WRodpFVtZX_22050_48_0.mp3" />
+      <file href="mobile/62wORbYeLXp_80_DX400_DY400_CX267_CY97.jpg" />
+      <file href="quiz_content/5ZgGjsWlS2N_22050_48_0.mp3" />
+      <file href="mobile/69TCek7iHzE_80_DX128_DY128_CX96_CY50.jpg" />
+      <file href="quiz_content/6QSxFgkruyD_22050_48_0.mp3" />
+      <file href="mobile/60VUYpFrxBT_80_DX972_DY972_CX728_CY316.jpg" />
+      <file href="quiz_content/6WbTB3tMvuh_22050_48_0.mp3" />
+      <file href="quiz_content/5dE35QYU9ID_22050_48_0.mp3" />
+      <file href="mobile/5ZdUNSm7LUk_80_DX736_DY736_CX552_CY304.jpg" />
+      <file href="quiz_content/6HXpGO9Vn0Y_22050_48_0.mp3" />
+      <file href="mobile/69TCek7iHzE_80_DX216_DY216_CX162_CY85.jpg" />
+      <file href="quiz_content/6Pyhu3inCoZ_22050_48_0.mp3" />
+      <file href="mobile/6Qo2JLFgTXa_80_DX1050_DY1050_CX697_CY334.jpg" />
+      <file href="quiz_content/69ZnqNtkRUV_22050_48_0.mp3" />
+      <file href="mobile/69TCek7iHzE_80_DX136_DY136_CX102_CY53.jpg" />
+      <file href="quiz_content/60bFvVBaCxt_22050_48_0.mp3" />
+      <file href="quiz_content/6BQL2RuRrEK_22050_48_0.mp3" />
+      <file href="quiz_content/5aR8iZW5inR_22050_48_0.mp3" />
+      <file href="quiz_content/6KTiepx4oBp_22050_48_0.mp3" />
+      <file href="mobile/69TCek7iHzE_80_DX248_DY248_CX185_CY97.jpg" />
+      <file href="quiz_content/62CEgNPSZDz_22050_48_0.mp3" />
+      <file href="quiz_content/62YUBEzmdkv_22050_48_0.mp3" />
+      <file href="mobile/6cgW4pYMO5k_80_DX818_DY818_CX613_CY192.png" />
+      <file href="mobile/69TCek7iHzE_80_DX250_DY250_CX187_CY98.jpg" />
+      <file href="mobile/67kRXYcTGXL_80_DX966_DY966_CX615_CY343.jpg" />
+      <file href="mobile/6cgW4pYMO5k_80_DX688_DY688_CX516_CY162.png" />
+      <file href="quiz_content/6kNR7bm27wm_22050_48_0.mp3" />
+      <file href="mobile/69TCek7iHzE_80_DX186_DY186_CX139_CY73.jpg" />
+      <file href="mobile/69TCek7iHzE_80_DX228_DY228_CX171_CY90.jpg" />
+      <file href="quiz_content/6XFciCx65xH_22050_48_0.mp3" />
+      <file href="mobile/6rEsnkKw11a_80_DX1080_DY1080_CX780_CY84.jpg" />
+      <file href="quiz_content/5WLP1pDhn0d_22050_48_0.mp3" />
+      <file href="mobile/6eAye9npu9n_80_DX580_DY580_CX434_CY289.jpg" />
+      <file href="mobile/69TCek7iHzE_80_DX194_DY194_CX145_CY76.jpg" />
+      <file href="mobile/6mgqe4nvGaw_80_DX1014_DY1014_CX572_CY373.jpg" />
+      <file href="quiz_content/6BBOQaB0UiV_22050_48_0.mp3" />
+      <file href="mobile/6eAye9npu9n_80_DX408_DY408_CX306_CY204.jpg" />
+      <file href="mobile/69TCek7iHzE_80_DX170_DY170_CX127_CY67.jpg" />
+      <file href="mobile/69TCek7iHzE_80_DX240_DY240_CX179_CY94.jpg" />
+      <file href="quiz_content/6Wp66M7Jz39_22050_48_0.mp3" />
+      <file href="mobile/6DVStjUiPie_80_DX620_DY620_CX465_CY229.jpg" />
+      <file href="quiz_content/5hD3aLwN6f4_22050_48_0.mp3" />
+      <file href="mobile/5ZNZWY9NpSS_80_DX1216_DY1216_CX730_CY343.jpg" />
+      <file href="mobile/6DVStjUiPie_80_DX590_DY590_CX442_CY218.jpg" />
+      <file href="quiz_content/6INq9nHuYE3_22050_48_0.mp3" />
+      <file href="mobile/6YM2gxUO5GL_80_DX1134_DY1134_CX848_CY187.jpg" />
+      <file href="mobile/69TCek7iHzE_80_DX188_DY188_CX141_CY74.jpg" />
+      <file href="mobile/5stBs8HuVcV_80_DX452_DY452_CX120_CY339.png" />
+      <file href="mobile/5nGrdGkkxmA_80_DX452_DY452_CX162_CY339.png" />
+      <file href="mobile/69TCek7iHzE_80_DX422_DY422_CX316_CY166.jpg" />
+      <file href="quiz_content/5fwSFtSelif_22050_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="quiz_content/frame.json" />
+      <file href="quiz_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/6pvC86UYCJG.js" />
+      <file href="html5/data/js/5t3iCztxHrT.js" />
+      <file href="html5/data/js/6nkgt6jpkOh.js" />
+      <file href="html5/data/js/5zZH2cn3PPp.js" />
+      <file href="html5/data/js/6RNXfyVec3r.js" />
+      <file href="html5/data/js/6la83CFWbBw.js" />
+      <file href="html5/data/js/6V1Y2IZbkOE.js" />
+      <file href="html5/data/js/6PGFktf9NKw.js" />
+      <file href="html5/data/js/6F1CYdMiJTW.js" />
+      <file href="html5/data/js/6i9QDxi2RTs.js" />
+      <file href="html5/data/js/6NCForSSR0F.js" />
+      <file href="html5/data/js/6bhK6M0nKuW.js" />
+      <file href="html5/data/js/5soJqxjolA0.js" />
+      <file href="html5/data/js/5tqHb76iZZ0.js" />
+      <file href="html5/data/js/6aXEy7kdm7E.js" />
+      <file href="html5/data/js/6ISQ7JocRTt.js" />
+      <file href="html5/data/js/61GC5QrHdwv.js" />
+      <file href="html5/data/js/68XyezO0ryH.js" />
+      <file href="html5/data/js/6SicDoaqrUv.js" />
+      <file href="html5/data/js/62TsklzHxj0.js" />
+      <file href="html5/data/js/5Vo7WGyxnKe.js" />
+      <file href="html5/data/js/5fOSKfWjkNK.js" />
+      <file href="html5/data/js/5bhd9JeQrtD.js" />
+      <file href="html5/data/js/6rDMXASiE2K.js" />
+      <file href="html5/data/js/6ZMblziVNZE.js" />
+      <file href="html5/data/js/5bxRXM2il4P.js" />
+      <file href="html5/data/js/6OJpEUx9i1k.js" />
+      <file href="html5/data/js/6aajYp4FLsf.js" />
+      <file href="html5/data/js/6l3ybuUrOgY.js" />
+      <file href="html5/data/js/6W0kYSRv4hJ.js" />
+      <file href="html5/data/js/5mqXwLqDdIf.js" />
+      <file href="html5/data/js/5hj75JOPz5B.js" />
+      <file href="html5/data/js/6D5MTjGs1f6.js" />
+      <file href="html5/data/js/6ach4GRNEQu.js" />
+      <file href="html5/data/js/5hqIkICGSnW.js" />
+      <file href="html5/data/js/6ZV3FA7DNMq.js" />
+      <file href="html5/data/js/6jjKTJ6vrzj.js" />
+      <file href="html5/data/js/5zi5xKKTdjr.js" />
+      <file href="html5/data/js/5b2xQanGZbD.js" />
+      <file href="html5/data/js/5Zl3e6Q4sCN.js" />
+      <file href="html5/data/js/6QbNGoYn8M1.js" />
+      <file href="html5/data/js/6d9ZrSTw3DA.js" />
+      <file href="html5/data/js/5q5wxrk1O3E.js" />
+      <file href="html5/data/js/6p5GugDIzoz.js" />
+      <file href="html5/data/js/60Gv082Mm5S.js" />
+      <file href="html5/data/js/6eJOhdhCnQa.js" />
+      <file href="html5/data/js/6aa3A06TAd0.js" />
+      <file href="html5/data/js/5wrf8Tps0Tg.js" />
+      <file href="html5/data/js/6Z4SlrvwXSV.js" />
+      <file href="html5/data/js/6lrjx9TUJis.js" />
+      <file href="html5/lib/scripts/app.min.js" />
+      <file href="html5/lib/stylesheets/main.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="quiz.html" />
+      <file href="quiz_html5.html" />
+      <file href="quiz_content/blank.html" />
+      <file href="launcher.html" />
+      <file href="quiz_content/orange_launch_normal.gif" />
+      <file href="quiz_content/quiz.js" />
+      <file href="index_lms.html" />
+      <file href="index_lms_html5.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
